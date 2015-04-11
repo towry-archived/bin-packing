@@ -5,7 +5,12 @@ bin packing algorithm implemented in Python
 ![bin packing](./_assets/screenshot.jpg)
 
 requires:
-	python >= 3
+	python >= 3.0
+	pytest == 2.7.0
+	Pillow == 2.7.0
+	cx-Freeze == 4.3.4 # For creating executable
+
+any enhance pull request will be accepted
 
 ## Usage
 
