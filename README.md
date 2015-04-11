@@ -2,6 +2,8 @@
 
 bin packing algorithm implemented in Python
 
+![bin packing](./_assets/screenshot.jpg)
+
 requires:
 	python >= 3
 
