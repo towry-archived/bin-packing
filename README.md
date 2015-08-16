@@ -1,6 +1,6 @@
 # bin packing
 
-bin packing algorithm implemented in Python
+Just for fun.
 
 ![bin packing](./_assets/screenshot.jpg)
 
